@@ -1,7 +1,7 @@
-### Hi, I'm [Emanuel](https://sremanuel.co), a programming student from Brazil 👋 😁
+### Hi, I'm [Emanuel](), a programming student from Brazil 👋 😁
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/SrEmanuel)](https://sremanuel.co)
-[![Followers](https://img.shields.io/github/followers/SrEmanuel?style=social)](https://sremanuel.co)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/SrEmanuel)]()
+[![Followers](https://img.shields.io/github/followers/SrEmanuel?style=social)]()
 
 I'm a guy that are always trying to learn something new around the internet. Student at the [Federal Institute of Education, Science and Technology in Brasil](https://ifbaiano.edu.br/)
 
